@@ -17,5 +17,8 @@ Use `citep{}` this gives the references the parenthesis that BU require.
 #Just the referencing style?
 Download the buHarvard.bst file and ensure your preamble has `\bibpunct{(}{)}{,}{a}{}{ }` and `\bibliographystyle{buHarvard}`, sorted!
 
+#Changes
+If there are changes to the template that need to be done, then please just put in a merge request and reasoning for the change, I will check them over and add them in, hopefully we can create a sustainable template for those who want to use LaTeX in their dissertations.
+
 #Lastly 
 Good luck with your dissertations, or any other project if you're just using the referencing style!
